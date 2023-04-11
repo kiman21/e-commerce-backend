@@ -8,8 +8,8 @@ Run `npm i` to install all dependencies. Also a .env file is required for DB_NAM
 
 ## Usage
 This portion is only the backend, so use insomnia to check routes.
-https://github.com/kiman21/e-commerce-backend/
-
+[Github Repository](https://github.com/kiman21/e-commerce-backend/)
+[Walkthrough Video](https://drive.google.com/file/d/1fJ_ffaXbBtdBtHUKbcrggXN_VGhLxZwl/view)
 
 ## Credit
 N/A
